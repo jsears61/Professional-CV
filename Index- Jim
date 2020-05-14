@@ -7,7 +7,6 @@
 
   img{
     height:20px;
-    width:20%;
   }
 
 </style>
@@ -16,7 +15,7 @@
   <body>
     <table cellspacing="20">
       <tr>
-        <td> <img src= https://www.surrey.ac.uk/sites/default/files/styles/diamond_shape_250x250/public/2018-09/jim-sears.jpg?itok=MkBW6gtf alt="Jim's profile picture"></td>
+        <td> <img src= https://pbs.twimg.com/media/DQWwTMKWAAAZxm_.jpg alt="Jim's profile picture"></td>
         <td> <h1>Jim Sears</h1>
           <p><em>Programme Director of <strong><a href="https://www.surrey.ac.uk/postgraduate/entrepreneurship-innovation-management-msc-2020">MSc Entrepreneurship & Innovation Management</a><strong></em></p>
             <p> I am an itinerant wanderer interested in all things related to building strategies for growth from start-ups to scale-ups and large corporate enterprises;</p>
